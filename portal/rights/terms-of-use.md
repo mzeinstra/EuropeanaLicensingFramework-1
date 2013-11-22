@@ -4,7 +4,7 @@ The Europeana.eu website is run by the Europeana Foundation and gives access to 
 
 **Metadata**
 
-All metadata available on europeana.eu are published free of restrictions, under the terms of the [Creative Commons CC0 1.0 Universal Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons CC0 1.0 Universal Public Domain Dedication information"). However if you re-use data published by Europeana, we encourage you to follow the [Europeana Usage Guidelines for Metadata](http://www.europeana.eu/rights/metadata-usage-guidelines/ "Click here to view the Europeana Usage Guidelines for Metadata") and to provide attribution to the data sources whenever possible.
+The Europeana database and all metadata available on europeana.eu are published free of restrictions, under the terms of the [Creative Commons CC0 1.0 Universal Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons CC0 1.0 Universal Public Domain Dedication information"). However if you re-use data published by Europeana, we encourage you to follow the [Europeana Usage Guidelines for Metadata](http://www.europeana.eu/rights/metadata-usage-guidelines/ "Click here to view the Europeana Usage Guidelines for Metadata") and to provide attribution to the data sources whenever possible.
 
 [CC zero button](http://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons CC0 1.0 Universal Public Domain Dedication information")
 
